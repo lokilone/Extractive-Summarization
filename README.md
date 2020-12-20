@@ -8,6 +8,8 @@ Vous trouverez dans ce repo un notebook contenant :
 - Une explication du fonctionnement de l'algorithme
 - Une analyse des performances 
 
+Ce notebook utilise les librairies pandas, nltk, rouge ainsi que word2vec de Google. 
+
 -----
 
 I did this project during my internship at DataScientest in the year 2020. 
@@ -16,3 +18,5 @@ You will find in this repo a notebook containing :
 - A quick presentation of the data
 - An explanation of how the algorithm works
 - An analysis of performance 
+
+This notebook uses the pandas, nltk, red and word2vec libraries from Google. 
