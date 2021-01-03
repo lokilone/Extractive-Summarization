@@ -19,4 +19,4 @@ You will find in this repo a notebook containing :
 - An explanation of how the algorithm works
 - An analysis of performance 
 
-This notebook uses the pandas, nltk, red and word2vec libraries from Google. 
+This notebook uses the pandas, nltk, rouge and word2vec libraries. 
