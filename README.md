@@ -1,9 +1,9 @@
 # Extractive-Summarization
 [English Version Below]
 
-J'ai effectué au cours de mon stage chez DataScientest au cours de l'année 2020. 
-L'objectif de ce travail était de créer un algorithme capable de résumer au mieux un texte, en utilisant uniquement des phrases extraites de ce dernier. 
-Vous trouverez dans ce repo un notebook contenant :
+J'ai effectué ce projet durant mon stage chez DataScientest au cours de l'année 2020. 
+L'objectif était de créer un algorithme capable de résumer au mieux un texte, en utilisant uniquement des phrases extraites de ce dernier. 
+Vous trouverez dans ce repository un notebook contenant :
 - Une rapide présentation des données
 - Une explication du fonctionnement de l'algorithme
 - Une analyse des performances 
